@@ -39,6 +39,3 @@ module.exports = {
     handler: requestHandler,
     description: "Some hard coded text"
 };
-
-exports.handler = requestHandler;
-exports.description = "Some hard coded text";
